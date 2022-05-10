@@ -33,5 +33,5 @@ python main.py
 
 ### ❄️ END
 ```
-Free free to improve this project and remove issues if you find any as nothing is perfect.
+Free to improve this project and remove issues if you find any as nothing is perfect.
 ```
