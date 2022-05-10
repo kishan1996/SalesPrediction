@@ -1,0 +1,6 @@
+model_parameters:
+  n_estimators: 56
+  max_depth: 30
+  max_features: 7
+  min_samples_split : 3
+  min_samples_leaf: 1

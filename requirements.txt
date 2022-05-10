@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+scipy
+sklearn
+pandasql
+flask
+flask_cors
+from_root
+-e .
+pyyaml
