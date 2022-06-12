@@ -16,6 +16,7 @@ Create an End to End Machine Learning Project which predict the sales of stores 
 ```commandline
 conda create --prefix ./env python=3.9
 conda activate ./env 
+pip install -e .
 pip install -r requirements.txt 
 ```
 
